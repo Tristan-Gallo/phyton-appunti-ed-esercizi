@@ -1,2 +1,5 @@
 Slicing : è la procedura nella quale recuperiamo una parte della lista
 List comprehention : meccanismo nel quale costruiamo una lista scrivendo nelle parentisi quadre o le istruzioni per generare i singoli elementi della lista
+Una fuonzione è un costrutto sintattico dei linguaggi di programmazione che permette di raggruppare una serie di istruzioni.
+Una funzione può avere 0 o più argomenti, cioè valori di ingresso su cui la funzione opera.
+La funzione deve avere un output.
