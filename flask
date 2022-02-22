@@ -1,0 +1,8 @@
+flask 
+client: programmi, che sono accesi quando servono all'utente
+http/https
+esempio programma client: un qualsiasi browers(crhome,firefox, ecc...)
+client attraverso il browser manda richieste al server web da delle risposte e il client lo comunica all'utente
+server web (apache, NGINX, node.js, lighttpd)
+html = Hyper Text Markup Language
+http = HyperText Transfer Protocol
